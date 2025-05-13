@@ -18,3 +18,10 @@ The analysis focuses on:</br>
 2. Scripts: All R scripts used for cleaning, exploration, analysis, and visualization.</br>
 3. Report: A comprehensive report summarizing the findings and providing actionable business recommendations.</br>
 4. Visualizations: Graphs and plots highlighting key patterns in the data.</br>
+  ![image](https://github.com/user-attachments/assets/336ebe04-98ab-417d-825b-71355a2d62a9)
+  ![image](https://github.com/user-attachments/assets/724227e9-575a-4277-bd27-5fb5a01c4c3d)
+  ![image](https://github.com/user-attachments/assets/bd10e30d-902b-41d5-8cf0-39dabc3a1bee)
+  ![image](https://github.com/user-attachments/assets/4d08d0a1-438a-4708-9fc6-04b66921da6c)
+
+
+
